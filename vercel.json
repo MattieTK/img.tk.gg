@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/:match*",
+      "destination": "https://b2.mattietk.com/file/tkdotgg/:match*"
+    }
+  ],
+  "redirects": [{ "source": "/", "destination": "https://tk.gg" }]
+}
